@@ -1,6 +1,6 @@
 # Exercise Instructions
 
-Making a react js application that is similar to the landingPage.pdf file.
+Making a react js application that is similar to the landingPage.pdf file inside the /public folder.
  ** use react components to structure your page and reduce code repetition!
 
 
